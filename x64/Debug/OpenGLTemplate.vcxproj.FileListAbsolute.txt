@@ -1,0 +1,6 @@
+D:\Seneca courses\GAM_531_NSA\OpenGLTemplate\x64\Debug\OpenGLTemplate.exe
+D:\Seneca courses\GAM_531_NSA\OpenGLTemplateRelative\x64\Debug\OpenGLTemplate.exe
+D:\Seneca courses\GAM_531_NSA\OpenGLTemplateTriangles\x64\Debug\OpenGLTemplate.exe
+D:\Seneca courses\GAM_531_NSA\OpenGLTemplateTrianglesSeperateShaders\x64\Debug\OpenGLTemplate.exe
+D:\Seneca courses\GAM_531_NSA\Assignment 1\Assignment\x64\Debug\OpenGLTemplate.exe
+D:\Seneca courses\GAM_531_NSA\Assignment 2\Assignment 2\x64\Debug\OpenGLTemplate.exe
